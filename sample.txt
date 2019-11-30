@@ -1,0 +1,4 @@
+新規ファイルはコミットする前にaddする必要がある。
+1:git add sample.txt
+2:git status
+3:git commit -a
